@@ -1,0 +1,21 @@
+json : java script object notation
+
+arr=[ '바나나','키위' ]
+arr[0] -> '바나나'		#인덱스로 접근
+
+info = { 'name':choi', age:20 }
+info.name -> 'choi'			#키로 접근
+info['name']			#배열안에 키로 적용. 파이썬에서 주로 ㅅㅏ용.
+
+둘다 사용 가능!
+
+https://www.kobis.or.kr/kobisopenapi/homepg/apiservice/searchServiceInfo.do 일별 박스오피스
+http://kobis.or.kr/kobisopenapi/webservice/rest/boxoffice/searchDailyBoxOfficeList.json?key=f5eef3421c602c6cb7ea224104795888&targetDt=20221030
+
+객체 -> 파이썬에서는 딕셔너리
+
+for와 while문의 차이점
+for:반복횟수정해짐
+while:횟수 안 정해짐. 조건이 참이면 계속 돌아감
+
+https://www.acmicpc.net/problem/2476 과제!
